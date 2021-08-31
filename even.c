@@ -8,3 +8,4 @@ sum=sum+a[i];
 return sum;
 }
 
+//contributed by Aman Singh//
